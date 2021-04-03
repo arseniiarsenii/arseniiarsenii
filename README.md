@@ -1,4 +1,7 @@
 ### Hi there 👋, my name is Arseny
+
+![Header](header.png)
+
 #### I am a student at the Herzen state university located in Saint-Petersburg, Russia
 I am a fluent english, russian and Python speaker :) 
 Full-time Linux user 🐧
