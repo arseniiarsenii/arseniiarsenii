@@ -6,7 +6,7 @@
 I am a fluent english, russian and Python speaker :) 
 Full-time Linux user 🐧
 
-🛠️ **Skills:** Python 3, C, HTML, Linux, Bash, Docker, Flask
+🛠️ **Skills:** Python, C, HTML, Linux, Bash, Docker, Flask, Fastapi
 
 📫 **How to reach me:** arseniivelichko2@gmail.com  
 
