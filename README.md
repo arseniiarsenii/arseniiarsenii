@@ -11,4 +11,4 @@ I am a fluent english, russian and Python speaker :)
 
 📫 **How to reach me:** arseniivelichko2@gmail.com  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arseniiarsenii&show_icons=true&count_private=true)  
+🕸 **Connect with me on LinkedIn:** https://www.linkedin.com/in/arseniiarsenii
